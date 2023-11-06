@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1676997281 source:c:\users\divij\onedrive\desktop\dsa_ad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	<time.h>
+	<conio.h>
+
